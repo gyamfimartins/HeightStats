@@ -76,7 +76,7 @@ public class GetHeight {
            int minimum = Collections.min(heights);
            int maximum = Collections.max(heights);
            int average = average(heights);
-            Log.d("response", ">>" + minimum);
+            Log.d("mimimum", ">>" + minimum);
             Log.d("maximum", ">>" + maximum);
             Log.d("average", ">>" + average);
         }
